@@ -16,11 +16,3 @@ Uma cópia de script para iniciar um Localhost em python e fazer uma autenticaç
 ## Aquivo client_secret
 
 Arquivo .json onde você deve colocar o arquivo gerado pela API do youtube com as credenciais OAuth 2.0
-
-
-
-Muito orgulho de ter conseguido fazer meu primeiro projeto original mais avançado.
-
-Obrigada Venilton Falvo!
-Obrigada DIO!
-Obrigada Santander!
