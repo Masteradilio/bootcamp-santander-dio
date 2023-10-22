@@ -1,4 +1,4 @@
-Repositório para armazenar os arquivos do Projeto 2 do Bootcamp de Ciência de Dados da DIO - Santander
+Repositório para armazenar os arquivos do Projeto 2 - Criando um Relatório de Vendas Elegante com Power Bi, do Bootcamp de Ciência de Dados da DIO - Santander
 
 ![image](https://github.com/Masteradilio/bootcamp-santander-dio/assets/122137421/6c02a8bc-39af-4be3-8337-ebe9e9ea899a)
 
