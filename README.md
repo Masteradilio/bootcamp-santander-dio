@@ -1,2 +1,2 @@
 # bootcamp-santander-dio
-Repositório para salvar os projetos do bootcamp de Ciência de Dados Santander DIO
+Repositório para salvar os arquivos dos projetos realizados durante o bootcamp de Ciência de Dados Santander DIO
